@@ -10,7 +10,7 @@ This Power BI dashboard analyzes viewing behavior on the STC TV platform using u
 - **Most Watched Programs**: Top 10 content titles
 - **User Engagement**: Number of programs watched per user
 
-## 📷 Dashboard Preview
+
 
 
 
