@@ -12,7 +12,7 @@ This Power BI dashboard analyzes viewing behavior on the STC TV platform using u
 
 ## 📷 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/18b95ccd-5470-4484-9bdb-1f8ad44700e4)
+
 
 ## 📁 Files
 
