@@ -14,20 +14,20 @@ This Power BI dashboard analyzes viewing behavior on the STC TV platform using u
 
 
 
-## 📁 Files
+##  Files
 
 - `STC_TV_Dashboard.pbix` – Power BI dashboard
 - `Final_Dataset.csv` – Cleaned viewing dataset
-- `dashboard_preview.png` – Screenshot of the report
+-  – Screenshot of the report
 
-## 🧪 Tools Used
+## Tools Used
 
 - Power BI  
 - Excel / CSV  
 - Data modeling, transformation, and visualization  
 - Arabic language interpretation
 
-## 📡 Data Source
+##  Data Source
 
 Simulated viewing dataset extracted for analytical and educational purposes.
 
