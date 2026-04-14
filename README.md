@@ -18,7 +18,7 @@ This Power BI dashboard analyzes viewing behavior on the STC TV platform using u
 
 - `STC_TV_Dashboard.pbix` – Power BI dashboard
 - `Final_Dataset.csv` – Cleaned viewing dataset
--  – Screenshot of the report
+  
 
 ## Tools Used
 
